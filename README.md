@@ -17,7 +17,7 @@ Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas com
 > Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
 
 ## 🎯 Desafio
-![Em Produção](img\emProducao.png)
+![Em Produção](img/emProducao.png)
 Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
 
 Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
@@ -26,7 +26,7 @@ Precisamos de uma solução que permita **controlar as finanças por meio de uma
 > Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
 
 ### 3. Entregando o Desafio
-![emProducao](img\emProducao.png)
+![emProducao](img/emProducao.png)
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
