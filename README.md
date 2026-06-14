@@ -3,86 +3,41 @@
   <div align="right"> 
 <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
-  <H1><b> Victor Sérgio Silva Barros </b> </H1>
   
 </p> 
 
-<p align="left">  
-I have over 30 years of experience in the Information Technology field.<br> I have extensive experience as a systems analyst, programmer, information systems consultant, Machine Learning engineer and data analyst, working in development. CID: M24-6; M21-5
-<br>
-</p>
+# 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
-<p align="left">
-🧠 <b>AI | Machine Learning</b><br>
-<ul>
-      <li>
-        <a href="https://github.com/vicssb/machine-learning-specialist-training"> Machine Learning Specialist Training
-      </li>
-      <li>
-        <a href="https://github.com/vicssb/N8N---RAG-AI-Agent" alt="N8N RAG-AI-Agent" target = "_blank"> N8N RAG-AI-Agent 
-      </li>
-      <li>
-        <a href="https://github.com/vicssb/lab_asset_forecast" alt="Lab_asset_forecast" target = "_blank"> Lab_asset_forecast 
-      </li>
-      <li>
-        <a href="https://github.com/vicssb/chatbot-gemini-api" alt="Chatbot-gemini-api" target = "_blank"> Chatbot-gemini-api
-      </li>
-      <li>
-        <a href="https://github.com/vicssb/sistema-eleicao-quarkus" alt="sistema-eleicao-quarkus" target = "_blank"> Sistema eleitoral Quarkus
-      </li>
-      
-  </ul>
-  🦄 <b>Informatics</b><br>
-  <ul>
-<li>
-  Operating Systems:
-  Linux, Microsoft Windows 10, Microsoft Windows 7, Unix, Windows Server 2008 
-</li>
-<li>
-  Software:
-   Adobe Photoshop CorelDRAW Microsoft Access Microsoft Excel Microsoft Office Microsoft PowerPoint Microsoft Visio Microsoft Word 
-</li>
-<li>
-  Computer:
-    Network - Linux 
- </li>
-<li>
-Database:
- Microsoft SQL Server, MySQL, Oracle 9i - DBA, PostgreSQL, Data Mining, Data Modeling Multidimensional, Data Modeling Object Oriented, Database Modeling and Administration 
-</li>
-<li>
-Internet:
- Configuration and Use of E-mail - Design for Internet - Internet Access Configuration - Internet Systems Development - Internet Diagramming - Navigation and Search 
-</li>
-<li>
-Programming:
- Microsoft Visual Studio MVC - Model View Controller, Back-end Programming ASP Active Server Pages, Programming ASPX .NET, Programming Assembly, Programming C, Programming C#, Programming C++, Programming CSS3, Programming Delphi, Programming Flash, Programming HTML5, Programming in Java, Programming in JavaScript, Programming in JQuery, Programming in Json, Programming in MATLAB, Programming in Microsoft SQL, Programming in Microsoft .NET, Platform Programming in VBScript, Programming in Visual Basic Front-end and Programming Object Oriented Programming 
-</li>
-</ul>
-💌 <b>Personal Characteristics Management</b>
-<ul>
-<li>
-Skills:
- Results Tracking Ability to Motivate Teams, Ability to Solve Problems, Management Focused on Results and Leadership Organizational Vision 
-</li>
-<li>
-Personal Skills:
- Self-taught, Ambition, Ability to Integrate People, Ability to Motivate Organization, Ability Creativity, Dynamism, Efficiency, Entrepreneurial, Spirit Spontaneity, Ease of Adaptation, Ease of Learning, Ease of Communication and Expression, Ease Interpersonal Relationship, Ease of Working in a Group, Willpower Initiative, Leadership Profile, Extroverted, Persistence, Proactivity and Sociability.
-</li>
-<li>
-Training: Training
- Consultancy Training Instruction User Training 
-</li>
-<li>
-Projects: Project
- Presentation Project, Development, Project Management, Project Implementation and Web Projects
-</li>
-</ul>
-</p>
+Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
-<p align="left">
-  💼 Software: <strong>Eclipse, Visual Studio Code, Intellij, JBoss, Rational Rose, Jude UML.</strong>
-</p>
+## ✨ O que é Vibe Coding
+
+**Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
+
+> Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
+
+## 🎯 Desafio
+![Em Produção](img\emProducao.png)
+Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
+
+Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
+
+> [!IMPORTANT]
+> Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
+
+### 3. Entregando o Desafio
+![emProducao](img\emProducao.png)
+Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
+No README do seu repositório, inclua:
+
+- Seu **prompt final** (PRD);  
+- Prints ou pequenos vídeos das interações com a IA;  
+- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+- Uma breve **reflexão sobre o processo**:
+  - O que funcionou bem?  
+  - O que não funcionou como o esperado?  
+  - O que aprendeu sobre conversar com IAs?
+
 
 <p align="left">
   💌 For more information contact us: ⤵️
